@@ -4,11 +4,11 @@
 /* Body and Notice styling
 -------------------------------------------------------------- */
 body {
-  color: #b6b5ca;
+  color: #1a11c2;
   font-family: 'Arial', sans-serif;
   margin: 0;
   text-align: center;
-  background-color:#7CFC00;
+  background-color:#030303;
 }
 
 h5 {
@@ -212,7 +212,7 @@ input[type="radio"]:checked ~ input[type="radio"]:checked ~ input[type="radio"]:
   }
 }
 .tic-tac-toe label:hover {
-  background-color: #3d4250;
+  background-color: #30d40f;
 }
 .tic-tac-toe label:hover:after {
   opacity: .4;
